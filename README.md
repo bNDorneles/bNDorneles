@@ -29,4 +29,4 @@
 
 **Visitors Count**
 
-![Visit Counter](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FbNDorneles&s=50&c=931515&bg=00000000&no=7&ff=digi&tb=Visits%3A+&ta=)
+![Visit Counter](https://komarev.com/ghpvc/?username=bNDorneles&color=931515&style=flat-square&label=Visitors)
