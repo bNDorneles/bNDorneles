@@ -10,20 +10,13 @@
 
 ## Linguagens e Ferramentas 🛠
 
-[![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
-[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)](https://www.typescriptlang.org/)
-[![React](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
-[![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://nodejs.org/)
-[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
-[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)](https://www.postgresql.org/)
-[![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,react,nodejs,git,mongodb,postgres,html,css&theme=dark)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bNDorneles&theme=windows-dark&border_radius=20&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=45%2C000000%2C000000&dates=FF2F2F&currStreakNum=EBEBEB&border=6A0000&ring=EB0000&fire=EB0000&sideNums=EB0000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&stroke=ADADAD)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bNDorneles&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=b22222&border_color=b22222&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bNDorneles&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bNDorneles&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bNDorneles&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bNDorneles&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)
 
