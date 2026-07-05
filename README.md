@@ -6,7 +6,7 @@
 
 📍 Natural de São Borja, RS, e atualmente morando em Alegrete, RS.
 
-🎓 Estou cursando [Engenharia de Software](https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/), imerso em desafios empolgantes e aprendizados contínuos.
+🎓 Estou cursando [Engenharia de Software](https://cursos.unipampa.edu.br/cursos/engenhariadesoftware/)
 
 ## Linguagens e Ferramentas 🛠
 
