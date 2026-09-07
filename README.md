@@ -20,6 +20,3 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bNDorneles&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)
 
-**Visitors Count**
-
-![Visit Counter](https://komarev.com/ghpvc/?username=bNDorneles&color=931515&style=flat-square&label=Visitors)
